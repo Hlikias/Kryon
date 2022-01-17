@@ -7,7 +7,7 @@
 
 [为何不让人们知道mms是如何治疗癌症的](https://mp.weixin.qq.com/s/D1gLAh5X4RpJ09Ek7eRrkg)
 
-[国内mms使用者的治愈案例](https://mp.weixin.qq.com/s/979WLjmxF13PVPApSEnLnA)   [MMS有效性证词网站](https://mmstestimonials.co/)   [MMS淘宝购买链接](https://shop162291631.taobao.com/)
+[国内mms使用者的治愈案例](https://mp.weixin.qq.com/s/979WLjmxF13PVPApSEnLnA)     [MMS有效性证词网站](https://mmstestimonials.co/)     [MMS淘宝购买链接](https://shop162291631.taobao.com/)
 
 在油管上是看不到任何英文的，网友传的说MMS溶液有效性的视频的，因为都被油管删了！大药厂可不会想让大众知道竟然有这么廉价又有效的药物。
 想知道更多国内服用者的疗效报告，可以联系上面的淘宝卖家。
