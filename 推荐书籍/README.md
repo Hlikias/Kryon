@@ -21,7 +21,7 @@
 [癌症利润的真相](https://www.bilibili.com/video/BV1ah411z7ZW) 放疗化疗基本无效,之所以还在使用只是因为利润很高!!
 
 
-[**泰格坦，外星实验室关于CoVid-19疫苗的完整报告](https://mp.weixin.qq.com/s/r_KcaBLjfncXhChgzkRkrQ)
+**[泰格坦，外星实验室关于CoVid-19疫苗的完整报告](https://mp.weixin.qq.com/s/r_KcaBLjfncXhChgzkRkrQ)
 
 [昴宿二外星人讯息146：先进的晶芯零点反应堆 外星技术曝光](https://mp.weixin.qq.com/s/Oz8jNKXl-lE-lnxqiBkPoQ) Nassim研究的大概就是这个
 
@@ -31,7 +31,7 @@
 
 [Kryon：觉醒与觉察——第二部分](https://mp.weixin.qq.com/s/YK54JXElEPMqmwnPN_FpjQ) 睡眠的重要性,做梦是大脑在整理和释放记忆.
 
-[**Kryon:未来500年的物理](https://mp.weixin.qq.com/s/LLwLO-EctM1cTufqRtpSLg)
+**[Kryon:未来500年的物理](https://mp.weixin.qq.com/s/LLwLO-EctM1cTufqRtpSLg)
 
 [【元宇宙&Facebook】背后的秘密](https://www.bilibili.com/video/BV1jL411M7dD) "这个世界是需要普通人,甚至是蠢人才能正常运行的!""子曰:唯上智与下愚不移!"  
 
