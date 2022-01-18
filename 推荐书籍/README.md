@@ -19,6 +19,8 @@
 
 ### [泰格坦，外星实验室关于CoVid-19疫苗的完整报告](https://mp.weixin.qq.com/s/r_KcaBLjfncXhChgzkRkrQ)
 
+[疫苗、PCR 检测与松果体（警告）](https://mp.weixin.qq.com/s/hzEktD89Uvwkq8m12eRdzg) * 美国疫苗的确是有毒的!
+
 [昴宿二外星人讯息146：先进的晶芯零点反应堆 外星技术曝光](https://mp.weixin.qq.com/s/Oz8jNKXl-lE-lnxqiBkPoQ) Nassim研究的大概就是这个
 
 [昴宿二外星人讯息318：半人马母舰被地球能量武器击伤 托莱卡号曾遭热核武器直接命中](https://mp.weixin.qq.com/s/lqi24_IwuBDCbRTi4kXKiw)
