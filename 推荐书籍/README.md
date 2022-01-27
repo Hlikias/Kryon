@@ -14,8 +14,9 @@
 
 [文章目录 - 各类慢性疾病的原因和疗愈（截止至21年12月底）](https://mp.weixin.qq.com/s/VN5a1WA9ur8xXc_lMa2LJQ)
 
-[癌症利润的真相](https://www.bilibili.com/video/BV1ah411z7ZW) 放疗化疗基本无效,之所以还在使用只是因为利润很高!!
+[癌症利润的真相](https://www.bilibili.com/video/BV1ah411z7ZW) 放疗化疗基本无效,之所以还在使用只是因为利润很高!! 
 
+[肉类和乳制品致癌[Meat And Dairy Cause Cancer]](https://www.bilibili.com/video/BV1cp4y1e7Vw)
 
 ### [泰格坦，外星实验室关于CoVid-19疫苗的完整报告](https://mp.weixin.qq.com/s/r_KcaBLjfncXhChgzkRkrQ)
 
