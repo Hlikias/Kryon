@@ -1,3 +1,5 @@
+代码下载后可能会报xx.resx无法处理，解决方案看下面链接：
+
 [无法处理文件 xx.resx，因为它位于 Internet 或受限区域中，或者文件上具有 Web 标记。要想处理这些文件，请删除 Web 标记](https://blog.csdn.net/xinqinglhj/article/details/85492293)
 
 ### 下面这些也是我写的:
