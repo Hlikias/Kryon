@@ -20,6 +20,8 @@
 
 ### [泰格坦，外星实验室关于CoVid-19疫苗的完整报告](https://mp.weixin.qq.com/s/r_KcaBLjfncXhChgzkRkrQ)
 
+[参考资料下载 | 新冠研究进展](https://mp.weixin.qq.com/s/6cIrBItkGwrhufudaxIHPQ) **疫苗里的石墨烯想干啥**
+
 [疫苗、PCR 检测与松果体（警告）](https://mp.weixin.qq.com/s/hzEktD89Uvwkq8m12eRdzg)  **美国疫苗的确是有毒的!**
 
 [美国国内投毒史（下）：什么叫三位一体全方位立体化投毒机制](https://www.bilibili.com/video/BV1TL4y1H78C) **还说美国人不打疫苗反智,其实是你自己反智**
