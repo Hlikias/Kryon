@@ -1,18 +1,8 @@
 * **"代码"里的“无限次元”是C#写的图像处理小软件.**
 * "拙作"里是自己翻译和写的文章. **不觉醒就只有从韭菜升级为人血馒头的命，推荐阅读《2020人类觉醒指南》**
-* 关心自己健康的朋友务必看看"推荐书籍"里的内容. **里面有书介绍能治疗很多疾病的药物**
+* 关心自己健康的朋友务必看看"推荐书籍"里的内容. **里面有书介绍能治疗很多疾病的药物。西方大药厂一直在隐瞒一些真正有效的疗法和药物，大吃人血馒头**
 
-
-* [《揭露宇宙》观后感 ](https://zhuanlan.zhihu.com/p/67901143) 还没觉醒的人看看<揭露宇宙>吧,把脑洞炸开,脑洞小了干啥都不行!
-* [FPGA Image Processing basic skills - FPGA图像处理基本技巧](https://www.bilibili.com/read/cv13109706)
- 
-* [FPGA图像处理的前景如何？ ](https://www.bilibili.com/read/cv13109378)
-
-* [深入理解FPGA加速原理——不是随便写个C代码去HLS一下就能加速的](https://zhuanlan.zhihu.com/p/149221232) 
-
-* https://youtu.be/UVAxT60HppI
-* [连通域识别算法动画演示](https://www.bilibili.com/video/av26067000)
-
+* [《揭露宇宙》观后感 ](https://zhuanlan.zhihu.com/p/67901143) 还没觉醒的人看看<揭露宇宙>吧,把脑洞炸开,脑洞小了干啥都不行! **认为这个世界没有阴谋的人非蠢即坏！**
 
 # B站频道：
 * [无限次元B站首页！](https://space.bilibili.com/2139404925)
@@ -27,5 +17,5 @@
 
 [BecomeQuantum](https://www.youtube.com/channel/UCvJH-Cp7SypXvJ-e0KSOo1A)
 
-Email: becomequantum@qq.com
+## Email: becomequantum@qq.com
 也可以B站私信联系
