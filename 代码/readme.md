@@ -1,6 +1,9 @@
-代码下载后可能会报xx.resx无法处理，解决方案看下面链接：
+[FPGA图像处理中二值算子的一些妙用](https://www.bilibili.com/video/BV1WY411L7Bd) 这个视频有介绍“无限次元”这个代码实现的一些功能
 
-[无法处理文件 xx.resx，因为它位于 Internet 或受限区域中，或者文件上具有 Web 标记。要想处理这些文件，请删除 Web 标记](https://blog.csdn.net/xinqinglhj/article/details/85492293)
+[FPGA图像处理的一些基础知识，FPGA是如何实现最高实时性的？相比于GPU的优势在哪？](https://www.bilibili.com/video/BV1Ba411k7FA)
+
+[FPGA如何实现图像直方图统计？双口Block Ram的使用](https://www.bilibili.com/video/BV1QY411V7Pg)
+
 
 ### 下面这些也是我写的:
 
@@ -13,5 +16,10 @@
 
 
 [PIC16F877A开发版按键检测和串口通信汇编代码](https://download.csdn.net/download/qq_32010099/71814876)  
-用汇编写的Microchip单片机固定时间片轮询调度汇编代码
+用汇编写的Microchip单片机固定时间片轮询调度汇编代码  
+
+
+代码下载后可能会报xx.resx无法处理，解决方案看下面链接：
+
+[无法处理文件 xx.resx，因为它位于 Internet 或受限区域中，或者文件上具有 Web 标记。要想处理这些文件，请删除 Web 标记](https://blog.csdn.net/xinqinglhj/article/details/85492293)
 
