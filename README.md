@@ -6,7 +6,7 @@
 
 * [《揭露宇宙》观后感 ](https://zhuanlan.zhihu.com/p/67901143) 还没觉醒的人看看<揭露宇宙>吧,把脑洞炸开,脑洞小了干啥都不行! **认为这个世界没有阴谋的人非蠢即坏！认为没有外星人、永动机造不出来都和认为地球是平的一样反智！**
 
-# B站频道：
+## B站频道：
 * [无限次元B站首页！](https://space.bilibili.com/2139404925)
 * [如何提升学习能力](https://www.bilibili.com/video/BV1BL4y187xP)
 * [至简哲学零：哲学要学什么？最大难点在哪？学了有啥大用？又该如何学？](https://www.bilibili.com/video/BV1FA411A7ZR)
@@ -15,7 +15,7 @@
 
 * [反思神经网络五：从图像上理解概率小信息量大，人工和真实视觉神经网络到底有啥不同？](https://www.bilibili.com/video/BV12Q4y1X74G)
 
-# Youtube Chanel：
+## Youtube Chanel：
 
 [BecomeQuantum](https://www.youtube.com/channel/UCvJH-Cp7SypXvJ-e0KSOo1A)
 
