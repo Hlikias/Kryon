@@ -4,3 +4,5 @@
 
 [至简哲学二：从存在的无限体会宇宙人生的意义](https://www.bilibili.com/video/BV1gy4y1577x)  
 
+[Kryon-生命的意义（下）](https://mp.weixin.qq.com/s/FxWv75OLyEfjNS0IYcvCtA)
+
